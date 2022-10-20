@@ -26,6 +26,19 @@ WatchFace({
         second_path: "SSS.png",
         enable: !1,
     })
+    hmUI.createWidget(hmUI.widget.IMG_POINTER, {
+      src: "pointerBat.png",
+      center_x: 122,
+      center_y: 322,
+      x: 14,
+      y: 40,
+      type: hmUI.data_type.BATTERY,
+      start_angle: -150,
+      end_angle: 150,
+      cover_x: 0,
+      cover_y: 0,
+      show_level: hmUI.show_level.ONLY_NORMAL
+    })
     // img.addEventListener(hmUI.event.CLICK_DOWN, (info) => {
     //   img.setProperty(hmUI.prop.MORE, {
     //     y: 0
