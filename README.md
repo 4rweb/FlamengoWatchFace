@@ -1,5 +1,3 @@
-# FlamengoWatchFace
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/4rweb/FlamengoWatchFace/main/assets/preview.png" width="200" />
 </p>
