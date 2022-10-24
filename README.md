@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4rweb/FlamengoWatchFace/main/assets/preview.png" width="200" />
+  <img src="https://raw.githubusercontent.com/4rweb/FlamengoWatchFace/main/assets/gts-3/preview.png" width="200" />
 </p>
 
 <h1 align="center">
